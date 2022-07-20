@@ -36,7 +36,7 @@
 
 - 📫 How to reach me **vivekiter7087@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vivek-vardhan-maharana/](https://www.linkedin.com/in/vivek-vardhan-maharana/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/vivek-vardhan-maharana/)
 
 - ⚡ Fun fact **Band Aids don't heal bullet holes :)**
 

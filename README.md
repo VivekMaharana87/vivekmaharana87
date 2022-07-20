@@ -15,7 +15,9 @@
 </a>
   </div>
 <!-- <br/> -->
-<h3 align="center">Experienced Research Intern and Student Ambassador with a demonstrated history of working in the R&D Sector along with marketing and advertising industry. Skilled in Analytics Skills, Communication, English, Azure Cosmos DB, and Data Analytics. Strong education professional with a Bachelor of Technology - B.Tech focused in Computer Science from SOA University.</h3>
+   
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest). Have explored and built projects using datasets of scikit-learn , Kaggle and keras. Tech: Data Science, Machine learning, Microsoft Azure, Deep learning, Google cloud, ReactJs, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
+ Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekmaharana87&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmaharana87" /> </p>
@@ -56,8 +58,7 @@
 <a href="https://auth.geeksforgeeks.org/user/vivekvardhan2000/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vivekvardhan2000/profile" height="30" width="40" /></a>
 </p>
 
-
-## 💻 My Technical Skills
+<h1>💻 My Technical Skills 🛠</h1>
 
 <p align="center"> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>

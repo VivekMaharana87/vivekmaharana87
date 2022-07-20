@@ -1,5 +1,5 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vivek-vardhan-maharana/" target="_blank"> Vivek Vardhan Maharana </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+<img width="40%" align="right"   src="https://github.com/VivekMaharana87/vivekmaharana87/blob/main/workbench.svg" >
 
 A bit about Myself, I am <b>Vivek Vardhan Maharana</b> pursuing my <b>Computer Science Degree</b> from Institute of Technical Education and Research, As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 

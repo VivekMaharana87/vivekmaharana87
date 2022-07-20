@@ -26,19 +26,21 @@
 
 - 🔭 I’m currently working on **Image Processing**
 
-- 🌱 I’m currently learning **Solidity 0.8**
+- 🌱 Currently exploring and learning **Solidity 0.8**
 
 - 👯 I’m currently practicing **Grafana and Django**
 
 - 🤝 I’m looking for help with **blockchain and NFTs**
 
-- 💬 Any doubts, Ask me about it **I am happy to help**
+- ✨ Desire to develop the new possibilities in the field of DBMS & DATA SCIENCE✌.
 
-- 📫 How to reach me **vivekiter7087@gmail.com**
+- ✍ Sometimes I write Newsletters on [Revue](https://www.getrevue.co/profile/vivek87)
+
+- 📫 Reach me at:- **vivekiter7087@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/vivek-vardhan-maharana/)
 
-- ⚡ Fun fact **Band Aids don't heal bullet holes :)**
+- ⚡ Fun fact:- **I love to attend Meetups for learning & Conferences for Networking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

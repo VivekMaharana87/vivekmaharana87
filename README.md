@@ -1,4 +1,4 @@
-![](https://github.com/VivekMaharana87/vivekmaharana87/blob/main/Orange%20Minimalist%20(LinkedIn%20Banner)%20(1).png)
+![](https://github.com/VivekMaharana87/vivekmaharana87/blob/main/Modern%20business%20linkedin%20banner%20(4).png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vivek-vardhan-maharana/" target="_blank"> Vivek Vardhan Maharana </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/VivekMaharana87/vivekmaharana87/blob/main/workbench.svg" >
 
